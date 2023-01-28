@@ -60,7 +60,7 @@ const DeletePassenger = () => {
         <div className="text-center lg:text-left">
           <button
             type="submit"
-            className="inline-block ml-5 mb-3 px-4 py-3 bg-red-600 text-white font-medium text-sm leading-snug uppercase rounded shadow-md hover:bg-red-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out"
+            className="inline-block ml-5 mb-3 px-4 py-3 bg-red-600 text-white font-medium text-sm leading-snug uppercase rounded shadow-md hover:bg-redc-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out"
             onClick={delPassenger}
           >
             Delete 
